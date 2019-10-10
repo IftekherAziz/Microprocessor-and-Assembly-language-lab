@@ -1,7 +1,7 @@
 .model small
 .stack 100h
 .data
-    msg1 db 'Asif Shahariar$'
+    msg1 db 'Iftekher Aziz'
 .code                        
 
 main proc
